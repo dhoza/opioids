@@ -1,0 +1,6 @@
+0000000000000000000000000000000000000000 a23ca66c42d292b73a32801a77cd1e47e7aa5fc5 dhoza <dhoza@rocketmail.com> 1623206583 -0500	commit (initial): first commit
+a23ca66c42d292b73a32801a77cd1e47e7aa5fc5 0000000000000000000000000000000000000000 dhoza <dhoza@rocketmail.com> 1623206593 -0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 a23ca66c42d292b73a32801a77cd1e47e7aa5fc5 dhoza <dhoza@rocketmail.com> 1623206593 -0500	Branch: renamed refs/heads/master to refs/heads/main
+a23ca66c42d292b73a32801a77cd1e47e7aa5fc5 e68d27ab37ef80e68c18c3cd6f9dfc2c3618eeb8 dhoza <dhoza@rocketmail.com> 1623207148 -0500	commit: readme
+e68d27ab37ef80e68c18c3cd6f9dfc2c3618eeb8 10e16c73639141ede4d70b92f43606fe8adbdfb0 dhoza <dhoza@rocketmail.com> 1623207314 -0500	commit: notebook
+10e16c73639141ede4d70b92f43606fe8adbdfb0 6bbd3f3995ce37903edc56f8234844b6ac0a1d16 dhoza <dhoza@rocketmail.com> 1623378460 -0500	commit: data frames created
